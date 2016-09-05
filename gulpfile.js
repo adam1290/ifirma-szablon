@@ -239,4 +239,4 @@ gulp.task('default', ['serve']);
 // kometarz
 
 //hththt
-//dupa
+//dupaki
