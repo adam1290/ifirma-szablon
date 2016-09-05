@@ -1,0 +1,11 @@
+diff a/gulpfile.js b/gulpfile.js	(rejected hunks)
+@@ -236,4 +236,6 @@
+ });
+ 
+ gulp.task('default', ['serve']);
+-// kometarz
+\ No newline at end of file
++// kometarz
++
++//hththt
+\ No newline at end of file

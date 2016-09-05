@@ -236,4 +236,3 @@ gulp.task('build', ['clean'], function (cb) {
 });
 
 gulp.task('default', ['serve']);
-// kometarz
