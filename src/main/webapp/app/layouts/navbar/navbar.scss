@@ -1,0 +1,62 @@
+.navbar, .navbar.navbar-default{
+    background-color:#fff;
+    margin:0px;
+    min-height:auto;
+    border-radius: 0px;
+    width:100%;
+    max-width:100%;
+    font-family: "Open Sans",Arial,sans-serif!important;
+    color:#3f4147;
+    font-size:12px;
+    line-height:1.4!important;
+    .container{
+        margin:0px;
+      
+        padding:0px;
+    }
+}
+.navbar-collapse{
+    padding:0px;
+}
+.nav-container{
+    width:100%;
+    position:relative;
+}
+.navbar-right{
+    margin:0px;
+}
+.nav > li >a{
+    padding:18px 14px;
+}
+.navbar .navbar-nav > li > a{
+    padding:18px 14px;
+    border-left:1px #e7e7e7 solid;
+    line-height: 17px;
+}
+.navbar .dropdown-menu li > a, .navbar.navbar-default .dropdown-menu li > a{
+    font-size:12px;
+    padding:18px 14px;
+}
+.navbar-default .navbar-nav > li > a{
+    color:black;
+}
+.l-r-p{
+    padding-left:25px!important;
+    padding-right:25px!important;
+    font-size:16px;
+}
+.yellow-font{
+color:#f7d219!important;
+}
+
+/*ustawienia popover*/
+.popover-content{
+    color:black;
+}
+.popover{
+    border-radius:0px;
+    border-color:blue;
+}
+.popover.bottom .arrow:after {
+   border-bottom-color: blue;
+}
